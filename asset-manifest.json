@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Let-s-Shop/static/css/main.92cada5d.chunk.css",
-    "main.js": "/Let-s-Shop/static/js/main.9643367d.chunk.js",
-    "main.js.map": "/Let-s-Shop/static/js/main.9643367d.chunk.js.map",
+    "main.js": "/Let-s-Shop/static/js/main.0b641d24.chunk.js",
+    "main.js.map": "/Let-s-Shop/static/js/main.0b641d24.chunk.js.map",
     "runtime-main.js": "/Let-s-Shop/static/js/runtime-main.e36cca79.js",
     "runtime-main.js.map": "/Let-s-Shop/static/js/runtime-main.e36cca79.js.map",
     "static/css/2.ebd18554.chunk.css": "/Let-s-Shop/static/css/2.ebd18554.chunk.css",
-    "static/js/2.6646c862.chunk.js": "/Let-s-Shop/static/js/2.6646c862.chunk.js",
-    "static/js/2.6646c862.chunk.js.map": "/Let-s-Shop/static/js/2.6646c862.chunk.js.map",
+    "static/js/2.79257f87.chunk.js": "/Let-s-Shop/static/js/2.79257f87.chunk.js",
+    "static/js/2.79257f87.chunk.js.map": "/Let-s-Shop/static/js/2.79257f87.chunk.js.map",
     "index.html": "/Let-s-Shop/index.html",
     "static/css/2.ebd18554.chunk.css.map": "/Let-s-Shop/static/css/2.ebd18554.chunk.css.map",
     "static/css/main.92cada5d.chunk.css.map": "/Let-s-Shop/static/css/main.92cada5d.chunk.css.map",
-    "static/js/2.6646c862.chunk.js.LICENSE.txt": "/Let-s-Shop/static/js/2.6646c862.chunk.js.LICENSE.txt"
+    "static/js/2.79257f87.chunk.js.LICENSE.txt": "/Let-s-Shop/static/js/2.79257f87.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e36cca79.js",
     "static/css/2.ebd18554.chunk.css",
-    "static/js/2.6646c862.chunk.js",
+    "static/js/2.79257f87.chunk.js",
     "static/css/main.92cada5d.chunk.css",
-    "static/js/main.9643367d.chunk.js"
+    "static/js/main.0b641d24.chunk.js"
   ]
 }
